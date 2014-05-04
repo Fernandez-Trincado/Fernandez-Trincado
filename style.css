@@ -1,0 +1,125 @@
+body {
+
+	font-family: verdana, arial, serif;
+	font-size: 0.8em;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+a {
+	background-color: #ffffff;
+	color: #3261B1;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #3261B1;
+}
+
+#container {
+	background-color: #fff;
+	color: #000000;
+	margin: 0 auto;
+	position: relative;
+	text-align: left;
+	width: 750px;
+}
+
+#header {
+	background: #eee url(header.jpg) no-repeat;
+	height: 285px;
+	text-align: left;
+	width: 100%;
+}
+
+
+#header h1 {
+	font-size: 2.2em;
+	position: relative;
+	left: 10px;
+	top: 10px;
+	font-family:Georgia;
+	color:#fff;
+}
+
+#header a {
+	background-color: transparent;
+	color: #ffffff;
+	font-family: helvetica, verdana, arial, serif;
+	text-decoration:none;
+}
+
+#header a:hover {
+	background-color: transparent;
+	color: #999999;
+}
+
+#sidebar {
+	float: left;	
+	margin-top: 10px;
+	width: 100px;
+}
+
+#sidebar ul {
+	list-style: none;
+	margin-left: 15px;
+	padding-left: 0px;
+}
+
+#sidebar ul li {
+	display: block;
+	padding-bottom: 8px;	
+}
+
+#sidebar a {
+	background-color: #ffffff;
+
+	color: #3261B1;
+	display: block;
+	font-size: 0.9em;
+	padding: 2px 8px;
+	text-decoration: none;
+	width: 100px;
+}
+
+#sidebar a:hover {
+	background-color: #3261B1;
+
+	color: white;
+}
+
+#content {
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 8px;
+	width: 590px;
+}
+h2{
+font-family:Georgia;
+fint-size:15px;
+}
+
+#footer {
+	background-color: #ffffff;
+	clear: right;
+	color: #000000;
+	font-size: 0.7em;
+	margin: 0 auto;
+	padding-bottom: 4px;	
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+	text-align: right;
+	width: 730px;
+}
+
+#footer a {
+	border-bottom: 1px dotted #666666;
+}
+
+#footer a:hover {
+	text-decoration: none;	
+}
