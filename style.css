@@ -9,7 +9,7 @@ body {
 
 a {
 	background-color: #ffffff;
-	color: #4173c9;
+	color: #3173c9;
 	text-decoration: underline;
 }
 
@@ -28,8 +28,8 @@ a:hover {
 }
 
 #header {
-	background: #eee url(header.jpg) no-repeat;
-	height: 285px;
+	background: #eee url(obs.jpg) no-repeat;
+	height: 385px;
 	text-align: left;
 	width: 100%;
 }
