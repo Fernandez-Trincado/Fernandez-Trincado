@@ -24,13 +24,13 @@ a:hover {
 	margin: 0 auto;
 	position: relative;
 	text-align: left;
-	width: 980px;
+	width: 1450px;
 }
 
 #header {
 	background: #eee url(Imagenes/BGM_2015.jpg) no-repeat;
 	height: 395px;
-	width: 140%;
+	width: 120%;
 }
 
 
@@ -40,7 +40,7 @@ a:hover {
 	left: 10px;
 	top: 10px;
 	font-family:Georgia;
-	color:#808000;
+	color:#00BFFF;
 }
 
 #header a {
@@ -94,7 +94,7 @@ a:hover {
 	padding-left: 10px;
 	padding-right: 10px;
 	margin-top: 8px;
-	width: 790px;
+	width: 1280px;
 }
 h2{
 font-family:Georgia;
