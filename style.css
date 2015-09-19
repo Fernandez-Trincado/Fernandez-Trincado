@@ -28,9 +28,9 @@ a:hover {
 }
 
 #header {
-	background: #eee url(Imagenes/BGM_20152.jpg) no-repeat;
-	height: 450px;
-	width: 100%;
+	background: #eee url(header.jpg) no-repeat;
+	height: 290px;
+	width: 65%;
 }
 
 
@@ -91,10 +91,10 @@ a:hover {
 
 #content {
 	float: right;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 20px;
+	padding-right: 80px;
 	margin-top: 8px;
-	width: 1080px;
+	width: 1000px;
 }
 h2{
 font-family:Georgia;
